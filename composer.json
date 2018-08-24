@@ -1,0 +1,13 @@
+{
+    "name":"Benz12445/composertest",
+    
+    "version":"0.0.1",
+    "repositories":[{
+        "type":"vcs",
+        "url":"https://github.com/Benz12445/composertest"
+    }],
+    "require":{
+         "Benz12445/composertest": "dev-master"
+    }
+    
+}
